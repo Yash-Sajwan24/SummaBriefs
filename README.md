@@ -3,6 +3,9 @@
   <img width="300" alt="Compresso Logo" src="https://github.com/Yash-Sajwan24/SummaBriefs/blob/main/src/assets/Logo.png">
 </p>
 
+## Demo Article Link
+https://medium.com/riskified-technology/3-ways-to-break-into-data-science-6a7a8fd679b3
+
 ## Overview
 
 SummaBriefs is an open-source article summarizer that aims to simplify reading by providing clear and concise summaries of lengthy articles. Designed with a focus on user experience, it transforms extensive content into manageable insights, saving users time and effort. SummaBriefs is built using React, Tailwind CSS, and Redux, and integrated with RapidAPI for enhanced functionality.
